@@ -1,37 +1,39 @@
-<h1 align="center">Hi 👋, I'm Abdelrhman Allam</h1>
-<h3 align="center">A passionate Penetration Tester from Egypt</h3>
+### Hi there, I'm Abdelrhman  👋 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sl4x0&label=Profile%20views&color=0e75b6&style=flat" alt="sl4x0" /> </p>
+[![Linkedin:sl4x0](https://img.shields.io/badge/-sl4x0-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sl4x0/)](https://www.linkedin.com/in/sl4x0/)
+[![Instagram:sl4x0](https://img.shields.io/badge/-sl4x0-red?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/sl4x0/)](https://www.instagram.com/sl4x0/)
+[![Facebook:sl4x0](https://img.shields.io/badge/-sl4x0-blue?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/sl4x0/)](https://www.facebook.com/sl4x0/)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sl4x0" alt="sl4x0" /></a> </p>
+![clark-tibbs-oqStl2L5oxI-unsplash](https://user-images.githubusercontent.com/70459751/185711530-6b97556d-e73d-47f9-93a7-f9557a2c3f2a.jpg)
+
+## 👨🏻‍💻 &nbsp;About Me
+
+## I'm a Penetration Tester !!
+
+<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+
+- 🌱 I’m currently learning everything 🤣
+- 👯 I’m looking to collaborate with other hackers
+- 🥅 2022 Goals: Being Web App Pen-tester
+- ⚡ Fun fact: I am gamer!
+- ✉️ &nbsp;You can shoot me an email at abdooslax@gmail.com! I'll try to respond as soon as I can
 
 
 
-- 🔭 I’m currently working on **Web Security Journey**
 
-- 🌱 I’m currently learning **The Bug Hunting Methodologies**
+## Find me around the web 🌎
+- Sharing Things <a href="https://www.facebook.com/sl4x0">Facebook</a> 🙃
+- Sharing updates on <a href="https://www.linkedin.com/in/sl4x0/">LinkedIn</a> 😇
 
-- 📝 I regularly write articles on [My Blog](https://sl4x0.github.io)
 
-- 💬 Ask me about **OWASP , Web Security , Mentoring Advices**
+## Watch my contributions get eaten by a snake 🐍
+![snake gif](https://user-images.githubusercontent.com/88105077/166116856-9251de7f-d2df-46fd-901b-5920e8047e52.svg)
 
-- 📫 How to reach me **abdooslax@gmail.com**
 
-- 📄 Know about my experiences [LinkedIn](https://www.linkedin.com/in/sl4x0)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/sl4x0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sl4x0" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/sl4x0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sl4x0" height="30" width="40" /></a>
-<a href="https://fb.com/sl4x0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sl4x0" height="30" width="40" /></a>
-<a href="https://instagram.com/sl4x0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sl4x0" height="30" width="40" /></a>
-</p>
+<p align="left"><img width="45%" align="left" src="https://github-readme-stats.vercel.app/api?username=sl4x0&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="sl4x0" /></p>
+<p align="right"><img width="45%" align="right" sy src="https://github-readme-stats.vercel.app/api/top-langs/?username=sl4x0&layout=compact&theme=radical&hide_border=true" alt="sl4x0" /></p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sl4x0&show_icons=true&locale=en&layout=compact" alt="sl4x0" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sl4x0&show_icons=true&locale=en" alt="sl4x0" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sl4x0&" alt="sl4x0" /></p>
