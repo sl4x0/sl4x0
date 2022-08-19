@@ -16,7 +16,7 @@
 - 👯 I’m looking to collaborate with other hackers
 - 🥅 2022 Goals: Being Web App Pen-tester
 - ⚡ Fun fact: I am gamer!
-- ✉️ &nbsp;You can shoot me an email at abdooslax@gmail.com! I'll try to respond as soon as I can
+- ✉️ &nbsp;You can shoot me an email at abdooslax@gmail.com!
 
 
 
