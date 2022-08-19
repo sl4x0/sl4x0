@@ -5,19 +5,19 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sl4x0" alt="sl4x0" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/sl4x0" target="blank"><img src="https://img.shields.io/twitter/follow/sl4x0?logo=twitter&style=for-the-badge" alt="sl4x0" /></a> </p>
+
 
 - 🔭 I’m currently working on **Web Security Journey**
 
 - 🌱 I’m currently learning **The Bug Hunting Methodologies**
 
-- 📝 I regularly write articles on [https://sl4x0.github.io](https://sl4x0.github.io)
+- 📝 I regularly write articles on [My Blog](https://sl4x0.github.io)
 
 - 💬 Ask me about **OWASP , Web Security , Mentoring Advices**
 
 - 📫 How to reach me **abdooslax@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/sl4x0](https://www.linkedin.com/in/sl4x0)
+- 📄 Know about my experiences [LinkedIn](https://www.linkedin.com/in/sl4x0)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
