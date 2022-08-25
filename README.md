@@ -1,29 +1,28 @@
 ### Hi there, I'm Abdelrhman  👋 
 
 [![Linkedin:sl4x0](https://img.shields.io/badge/-sl4x0-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sl4x0/)](https://www.linkedin.com/in/sl4x0/)
-[![Instagram:sl4x0](https://img.shields.io/badge/-sl4x0-red?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/sl4x0/)](https://www.instagram.com/sl4x0/)
 [![Facebook:sl4x0](https://img.shields.io/badge/-sl4x0-blue?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/sl4x0/)](https://www.facebook.com/sl4x0/)
+[![Twitter:sl4x0](https://img.shields.io/badge/-sl4x0-blue?style=flat-square&logo=twitter&logoColor=white&link=https://www.twitter.com/sl4x0/)](https://www.twitter.com/sl4x0/)
+[![Instagram:sl4x0](https://img.shields.io/badge/-sl4x0-red?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/sl4x0/)](https://www.instagram.com/sl4x0/)
 
 ![clark-tibbs-oqStl2L5oxI-unsplash](https://user-images.githubusercontent.com/70459751/185711530-6b97556d-e73d-47f9-93a7-f9557a2c3f2a.jpg)
 
 ## 👨🏻‍💻 &nbsp;About Me
 
 ## I'm a Penetration Tester !!
-
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently learning everything :"
 - 👯 I’m looking to collaborate with other hackers
 - 🥅 2022 Goals: Being Web App Pen-tester
 - ⚡ Fun fact: I am gamer!
-- ✉️ &nbsp;You can shoot me an email at abdooslax@gmail.com!
 
 
 
 
-## Find me around the web 🌎
-- Sharing Things <a href="https://www.facebook.com/sl4x0">Facebook</a> 🙃
-- Sharing updates on <a href="https://www.linkedin.com/in/sl4x0/">LinkedIn</a> 😇
+
+
+
 
 
 ## Watch my contributions get eaten by a snake 🐍
