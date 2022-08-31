@@ -7,7 +7,6 @@
 
 ![clark-tibbs-oqStl2L5oxI-unsplash](https://user-images.githubusercontent.com/70459751/185711530-6b97556d-e73d-47f9-93a7-f9557a2c3f2a.jpg)
 
-## 👨🏻‍💻 &nbsp;About Me
 
 ## I'm a MACS Student !!
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
