@@ -9,7 +9,7 @@
 
 ## 👨🏻‍💻 &nbsp;About Me
 
-## I'm a Web-App-Sec Enthusiast !!
+## I'm a MACS Student !!
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
 - 🌱 I’m currently learning everything :"
