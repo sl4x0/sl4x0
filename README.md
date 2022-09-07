@@ -35,7 +35,3 @@
 
 <p align="left"><img width="45%" align="left" src="https://github-readme-stats.vercel.app/api?username=sl4x0&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="sl4x0" /></p>
 <p align="right"><img width="45%" align="right" sy src="https://github-readme-stats.vercel.app/api/top-langs/?username=sl4x0&layout=compact&theme=radical&hide_border=true" alt="sl4x0" /></p>
-<img src="https://komarev.com/ghpvc/?username=sl4x0">
-![image](https://tryhackme-badges.s3.amazonaws.com/SlaxBoy.png)
-
-
