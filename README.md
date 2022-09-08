@@ -5,10 +5,10 @@
 [![Twitter:sl4x0](https://img.shields.io/badge/-sl4x0-blue?style=flat-square&logo=twitter&logoColor=white&link=https://www.twitter.com/sl4x0/)](https://www.twitter.com/sl4x0/)
 [![Instagram:sl4x0](https://img.shields.io/badge/-sl4x0-red?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/sl4x0/)](https://www.instagram.com/sl4x0/)
 
-![clark-tibbs-oqStl2L5oxI-unsplash](https://user-images.githubusercontent.com/70459751/185711530-6b97556d-e73d-47f9-93a7-f9557a2c3f2a.jpg)
 
 
-## I'm a M.A.C.S Student !!
+
+## I'm a M.A.C.S Student.
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
 - 🌱 I’m currently learning Applications Security
@@ -33,5 +33,8 @@
 
 
 
-<p align="left"><img width="45%" align="left" src="https://github-readme-stats.vercel.app/api?username=sl4x0&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="sl4x0" /></p>
-<p align="right"><img width="45%" align="right" sy src="https://github-readme-stats.vercel.app/api/top-langs/?username=sl4x0&layout=compact&theme=radical&hide_border=true" alt="sl4x0" /></p>
+<p align="left"><img width="50%" align="left" src="https://github-readme-stats.vercel.app/api?username=sl4x0&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="sl4x0" /></p>
+
+
+
+<p align="right"><img width="50%" align="right" sy src="https://github-readme-stats.vercel.app/api/top-langs/?username=sl4x0&layout=compact&theme=radical&hide_border=true" alt="sl4x0" /></p>
