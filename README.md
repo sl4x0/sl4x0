@@ -37,4 +37,4 @@
 
 
 
-<p align="right"><img width="50%" align="right" sy src="https://github-readme-stats.vercel.app/api/top-langs/?username=sl4x0&layout=compact&theme=radical&hide_border=true" alt="sl4x0" /></p>
+<p align="right"><img width="50%" align="left" sy src="https://github-readme-stats.vercel.app/api/top-langs/?username=sl4x0&layout=compact&theme=radical&hide_border=true" alt="sl4x0" /></p>
