@@ -25,7 +25,10 @@
 
 
 
-
+## GitHub Stats 📊
+<p>
+  <img src="https://github-profile-trophy.vercel.app/?username=sl4x0&theme=onedark&no-frame=true&column=7" />
+</p>
 
 
 ## Watch my contributions get eaten by a snake 🐍
@@ -33,8 +36,7 @@
 
 
 
-<p align="left"><img width="50%" align="left" src="https://github-readme-stats.vercel.app/api?username=sl4x0&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="sl4x0" /></p>
+<p align="left"><img width="48%" align="left" src="https://github-readme-stats.vercel.app/api?username=sl4x0&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="sl4x0" /></p>
+<p align="right"><img width="48%" align="right" sy src="https://github-readme-stats.vercel.app/api/top-langs/?username=sl4x0&layout=compact&theme=radical&hide_border=true" alt="sl4x0" /></p>
 
 
-
-<p align="right"><img width="50%" align="left" sy src="https://github-readme-stats.vercel.app/api/top-langs/?username=sl4x0&layout=compact&theme=radical&hide_border=true" alt="sl4x0" /></p>
