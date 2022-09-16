@@ -9,7 +9,8 @@
 
 
 ## I'm a M.A.C.S Student.
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+
+<img alt="Night Coding" src="https://media.giphy.com/media/oFvFtrhrmIFFe/giphy.gif" align="right" width="23%">
 
 - 🌱 I’m currently learning Applications Security
 - 👯 I’m looking to collaborate with other hackers
