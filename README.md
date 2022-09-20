@@ -3,7 +3,6 @@
 [![Linkedin:sl4x0](https://img.shields.io/badge/-sl4x0-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sl4x0/)](https://www.linkedin.com/in/sl4x0/)
 [![Facebook:sl4x0](https://img.shields.io/badge/-sl4x0-blue?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/sl4x0/)](https://www.facebook.com/sl4x0/)
 [![Twitter:sl4x0](https://img.shields.io/badge/-sl4x0-blue?style=flat-square&logo=twitter&logoColor=white&link=https://www.twitter.com/sl4x0/)](https://www.twitter.com/sl4x0/)
-[![Instagram:sl4x0](https://img.shields.io/badge/-sl4x0-red?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/sl4x0/)](https://www.instagram.com/sl4x0/)
 ![](https://visitor-badge.glitch.me/badge?page_id=sl4x0.sl4x0)
 
 
