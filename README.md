@@ -40,4 +40,4 @@
 <p align="right"><img width="45%" align="right" sy src="https://github-readme-stats.vercel.app/api/top-langs/?username=sl4x0&layout=compact&theme=radical&hide_border=true" alt="sl4x0" /></p>
 
 
-<img src="https://tryhackme-badges.s3.amazonaws.com/SlaxBoy.png" alt="TryHackMe">
+<img width="80%" align="centre" src="https://tryhackme-badges.s3.amazonaws.com/SlaxBoy.png" alt="TryHackMe">
