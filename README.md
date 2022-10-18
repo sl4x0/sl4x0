@@ -39,3 +39,5 @@
 <p align="left"><img width="45%" align="left" src="https://github-readme-stats.vercel.app/api?username=sl4x0&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="sl4x0" /></p>
 
 <p align="right"><img width="45%" align="right" sy src="https://github-readme-stats.vercel.app/api/top-langs/?username=sl4x0&layout=compact&theme=radical&hide_border=true" alt="sl4x0" /></p>
+
+<p align="center"><img width="60%" align="center" sy src="https://github-readme-streak-stats.herokuapp.com/?user=ayoub0x1&theme=radical" alt="sl4x0" /></p>
