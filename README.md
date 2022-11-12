@@ -11,8 +11,8 @@
 
 <img alt="Night Coding" src="https://media.giphy.com/media/oFvFtrhrmIFFe/giphy.gif" align="right" width="23%">
 
-- 🌱 I’m currently learning Applications Security
-- 👯 I’m looking to collaborate with other hackers
+- 🌱 I’m currently learning: Web Applications Security
+- 👯 I’m looking to: Collaborate with other hackers
 - 🥅 2022 Goals: Mastering Web-App Pentesting
 - ⚡ Fun fact: I am gamer
 
