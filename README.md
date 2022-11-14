@@ -7,14 +7,14 @@
 
 
 
-## I'm a M.A.C.S Student.
+## I'm a Security Researcher.
 
-<img alt="Night Coding" src="https://media.giphy.com/media/oFvFtrhrmIFFe/giphy.gif" align="right" width="23%">
+<img alt="adsf" src="https://media.giphy.com/media/oFvFtrhrmIFFe/giphy.gif" align="right" width="23%">
 
 - 🌱 I’m currently learning: Web Applications Security
-- 👯 I’m looking to: Collaborate with other hackers
+- 🧑‍🤝‍🧑 I’m looking to: Collaborate with other hackers
 - 🥅 2022 Goals: Mastering Web-App Pentesting
-- ⚡ Fun fact: I am gamer
+- 😎 Fun fact: I am gamer!
 
 
 
@@ -31,7 +31,7 @@
 </p>
 
 
-## Watch my contributions get eaten by a snake 🐍
+## Contributions 🐍
 ![snake gif](https://user-images.githubusercontent.com/88105077/166116856-9251de7f-d2df-46fd-901b-5920e8047e52.svg)
 
 
