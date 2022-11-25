@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning: Web Applications Security
 - 🧑‍🤝‍🧑 I’m looking to: Collaborate with other hackers
-- 🥅 2022 Goals: Mastering Web-App Pentesting
+- 🥅 2022 Goals: Finishing it alive!
 - 😎 Fun fact: I am gamer!
 
 
