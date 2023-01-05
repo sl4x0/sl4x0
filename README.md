@@ -27,7 +27,7 @@
 
 ## GitHub Stats 📊
 <p>
-  <img src="https://github-profile-trophy.vercel.app/?username=sl4x0&theme=onedark&no-frame=true&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=sl4x0&theme=onedark&no-frame=true&column=7" align="center" />
 </p>
 
 
