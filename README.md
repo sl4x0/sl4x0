@@ -31,10 +31,6 @@
 </p>
 
 
-## Contributions 🐍
-![snake gif](https://user-images.githubusercontent.com/88105077/166116856-9251de7f-d2df-46fd-901b-5920e8047e52.svg)
-
-
 
 <p align="left"><img width="47%" align="left" src="https://github-readme-stats.vercel.app/api?username=sl4x0&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="sl4x0" /></p>
 
